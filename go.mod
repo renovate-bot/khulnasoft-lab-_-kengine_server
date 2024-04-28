@@ -24,7 +24,7 @@ require (
 	github.com/k-sone/critbitgo v1.4.0
 	github.com/khulnasoft-lab/kengine_utils v0.0.0-20240428012650-50b1cce30709
 	github.com/klauspost/compress v1.17.4
-	github.com/lestrrat-go/jwx/v2 v2.0.18
+	github.com/lestrrat-go/jwx/v2 v2.0.21
 	github.com/minio/minio-go/v7 v7.0.66
 	github.com/neo4j/neo4j-go-driver/v5 v5.17.0
 	github.com/pkg/errors v0.9.1
@@ -103,7 +103,7 @@ require (
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/lestrrat-go/blackmagic v1.0.2 // indirect
 	github.com/lestrrat-go/httpcc v1.0.1 // indirect
-	github.com/lestrrat-go/httprc v1.0.4 // indirect
+	github.com/lestrrat-go/httprc v1.0.5 // indirect
 	github.com/lestrrat-go/iter v1.0.2 // indirect
 	github.com/lestrrat-go/option v1.0.1 // indirect
 	github.com/lib/pq v1.10.9 // indirect
