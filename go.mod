@@ -11,7 +11,7 @@ require (
 	github.com/casbin/casbin/v2 v2.81.0
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/docker/docker v24.0.9+incompatible
-	github.com/go-chi/chi/v5 v5.0.8
+	github.com/go-chi/chi/v5 v5.1.0
 	github.com/go-chi/jwtauth/v5 v5.3.0
 	github.com/go-playground/locales v0.14.1
 	github.com/go-playground/pkg/v5 v5.22.0
