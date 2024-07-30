@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/PagerDuty/go-pagerduty v1.7.0
 	github.com/andygrunwald/go-jira v1.16.0
-	github.com/aws/aws-sdk-go v1.49.16
+	github.com/aws/aws-sdk-go v1.55.5
 	github.com/casbin/casbin/v2 v2.81.0
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/docker/docker v24.0.9+incompatible
