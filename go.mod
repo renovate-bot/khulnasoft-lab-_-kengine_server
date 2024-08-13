@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.49.16
 	github.com/casbin/casbin/v2 v2.81.0
 	github.com/cenkalti/backoff/v4 v4.2.1
-	github.com/docker/docker v24.0.9+incompatible
+	github.com/docker/docker v25.0.6+incompatible
 	github.com/go-chi/chi/v5 v5.0.8
 	github.com/go-chi/jwtauth/v5 v5.3.0
 	github.com/go-playground/locales v0.14.1
@@ -39,10 +39,10 @@ require (
 	github.com/swaggest/openapi-go v0.2.44
 	github.com/twmb/franz-go v1.15.4
 	github.com/ugorji/go/codec v1.2.12
-	go.opentelemetry.io/otel v1.21.0
+	go.opentelemetry.io/otel v1.28.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
 	go.opentelemetry.io/otel/sdk v1.21.0
-	go.opentelemetry.io/otel/trace v1.21.0
+	go.opentelemetry.io/otel/trace v1.28.0
 	golang.org/x/crypto v0.21.0
 	golang.org/x/mod v0.12.0
 	golang.org/x/term v0.18.0
@@ -57,6 +57,7 @@ require (
 
 require (
 	github.com/sendgrid/rest v2.6.9+incompatible // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.53.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
 )
 
@@ -78,9 +79,9 @@ require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
-	github.com/felixge/httpsnoop v1.0.2 // indirect
+	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
-	github.com/go-logr/logr v1.3.0 // indirect
+	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/jsonpointer v0.19.6 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
@@ -140,7 +141,7 @@ require (
 	github.com/twmb/franz-go/pkg/kadm v1.10.0 // indirect
 	github.com/twmb/franz-go/pkg/kmsg v1.7.0 // indirect
 	go.opentelemetry.io/contrib v1.0.0 // indirect
-	go.opentelemetry.io/otel/metric v1.21.0 // indirect
+	go.opentelemetry.io/otel/metric v1.28.0 // indirect
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
 	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/oauth2 v0.12.0 // indirect
