@@ -36,7 +36,7 @@ require (
 	github.com/samber/mo v1.11.0
 	github.com/sashabaranov/go-openai v1.17.10
 	github.com/sirupsen/logrus v1.9.3
-	github.com/swaggest/openapi-go v0.2.44
+	github.com/swaggest/openapi-go v0.2.54
 	github.com/twmb/franz-go v1.15.4
 	github.com/ugorji/go/codec v1.2.12
 	go.opentelemetry.io/otel v1.21.0
@@ -134,7 +134,7 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/swaggest/jsonschema-go v0.3.64 // indirect
+	github.com/swaggest/jsonschema-go v0.3.72 // indirect
 	github.com/swaggest/refl v1.3.0 // indirect
 	github.com/trivago/tgo v1.0.7 // indirect
 	github.com/twmb/franz-go/pkg/kadm v1.10.0 // indirect
