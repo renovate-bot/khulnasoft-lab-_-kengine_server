@@ -23,7 +23,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/k-sone/critbitgo v1.4.0
 	github.com/khulnasoft-lab/kengine_utils v0.0.0-20240428012650-50b1cce30709
-	github.com/klauspost/compress v1.17.4
+	github.com/klauspost/compress v1.17.11
 	github.com/lestrrat-go/jwx/v2 v2.0.21
 	github.com/minio/minio-go/v7 v7.0.66
 	github.com/neo4j/neo4j-go-driver/v5 v5.17.0
