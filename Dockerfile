@@ -1,4 +1,4 @@
-FROM alpine:3.18
+FROM alpine:3.22
 MAINTAINER Kengine Inc
 LABEL kengine.role=system
 
